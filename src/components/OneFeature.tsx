@@ -13,6 +13,7 @@ const OneFeature = () => {
       <div className="font-light text-sm">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, iusto!
       </div>
+      <hr className="md:hidden" />
     </div>
   );
 };
