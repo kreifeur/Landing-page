@@ -1,5 +1,4 @@
 import {  BsEnvelope, BsPhone, BsSearch } from "react-icons/bs";
-import { GiHamburgerMenu } from "react-icons/gi";
 import logo from "../assets/Jeep-logo-white.webp";
 const Navbar = () => {
   return (
