@@ -11,7 +11,7 @@ const Header = () => {
 
       <div className="h-[70vh] w-[100%] text-white flex  ">
         <div className="flex flex-col justify-center gap-6">
-          <div className="md:text-8xl text-7xl">COMPASS</div>
+          <div className="md:text-8xl text-4xl">COMPASS</div>
           <div>
             Expound the actual teachings of the great explorer of the truth
           </div>
