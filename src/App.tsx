@@ -1,6 +1,7 @@
 
 import './App.css'
 import About from './pages/About'
+import Contact from './pages/Contact'
 import Gallery from './pages/Gallery'
 import Header from './pages/Header'
 import Vehicles from './pages/Vehicles'
@@ -15,6 +16,7 @@ function App() {
         <About/>
         <Vehicles/>
         <Gallery/>
+        <Contact/>
       </div>
     </>
   )
