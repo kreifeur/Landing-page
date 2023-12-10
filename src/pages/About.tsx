@@ -2,7 +2,7 @@ import Features from "../components/Features";
 import image1 from "../assets/jeep1.webp";
 const About = () => {
   return (
-    <div className="md:h-[100vh] w-[100%] md:px-[10vh]  px-[5vh] py-[5vh] flex flex-col gap-[5vh]">
+    <div className="md:min-h-[100vh] w-[100%] md:px-[10vh]  px-[5vh] py-[5vh] flex flex-col gap-[5vh]">
       <div className="md:h-[60vh] w-[100%] flex flex-col md:flex-row  items-center gap-8">
         <div className=" flex-[2] flex flex-col gap-4 ">
           <div className="text-3xl font-bold">About us</div>
