@@ -12,7 +12,7 @@ const Vehicles = () => {
             <div className="text-4xl text-white ">Vehicles</div>
         </div>
 
-        <div className="grid md:grid-cols-3 grid-cols-1 gap-[20vh] w-[100%]">
+        <div className="grid md:grid-cols-3 grid-cols-1 md:gap-[20vh] w-[100%] gap-[10vh]">
             <OneCarDetails name='Grand Cherokee SRT' image={ie}/>
             <OneCarDetails name='Grand Cherokee SRT' image={ie2}/>
             <OneCarDetails name='Grand Cherokee SRT' image={ie3}/>

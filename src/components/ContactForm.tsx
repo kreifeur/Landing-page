@@ -1,7 +1,7 @@
 const ContactForm = () => {
   return (
     <div className="flex flex-col md:flex-row text-white border border-white min-h-[55vh] md:w-[80%] w-[100%]">
-      <div className="flex-1 md:border-r md:border-r-white flex flex-col px-10 py-6 gap-6 border-b border-b-white">
+      <div className="flex-1 md:border-r md:border-r-white flex flex-col md:md:px-10 px-4 px-4 py-6 gap-6 border-b border-b-white">
         <div>Select the vehucle</div>
         <ul>
           <li>Compass</li>
@@ -12,7 +12,7 @@ const ContactForm = () => {
         </ul>
       </div>
 
-      <div className="flex-[2] border-r border-r-white flex flex-col px-10 py-6 gap-6">
+      <div className="flex-[2] border-r border-r-white flex flex-col md:px-10 px-4 py-6 gap-6">
         <div>Contact informations</div>
         <form className="flex flex-col gap-3 text-sm">
           <input
