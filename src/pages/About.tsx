@@ -9,7 +9,7 @@ const About = () => {
           <div className="text-lg">
             <span className="text-[#ffba00]">Accussamous</span> is iusto
           </div>
-          <p className="text-sm w-[80%]">
+          <p className="text-sm w-[100%]">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum,
             explicabo accusamus? Perferendis dolor sequi assumenda modi quaerat
             sint nemo quod, sed cupiditate quis officiis suscipit asperiores ad
