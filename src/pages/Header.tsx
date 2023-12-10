@@ -12,7 +12,7 @@ const Header = () => {
       <div className="h-[70vh] w-[100%] text-white flex  ">
         <div className="flex flex-col justify-center gap-6">
           <div className="md:text-6xl text-5xl font-bold">COMPASS</div>
-          <div>
+          <div className="w-[50%] md:w-[100%]">
             Expound the actual teachings of the great explorer of the truth
           </div>
           <button className="w-[200px] border border-[#ffba00] h-[40px] text-[#ffba00] rounded-xl">
