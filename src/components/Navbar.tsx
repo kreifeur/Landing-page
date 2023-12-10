@@ -1,4 +1,5 @@
-import { BsEnvelope, BsPhone, BsSearch } from "react-icons/bs";
+import {  BsEnvelope, BsPhone, BsSearch } from "react-icons/bs";
+import { GiHamburgerMenu } from "react-icons/gi";
 import logo from "../assets/Jeep-logo-white.webp";
 const Navbar = () => {
   return (
@@ -25,6 +26,11 @@ const Navbar = () => {
           <BsSearch />
         </li>
       </ul>
+      <div className="md:hidden text-2xl">
+      <div className="border-b w-[40px] border-b-white border-b-[3px] mb-2"></div>
+      <div className="border-b w-[40px] border-b-white border-b-[3px] mb-2"></div>
+      <div className="border-b w-[40px] border-b-white border-b-[3px] mb-2"></div>
+      </div>
     </div>
   );
 };
