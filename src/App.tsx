@@ -1,12 +1,16 @@
 
 import './App.css'
+import Header from './pages/Header'
 
 function App() {
 
 
   return (
     <>
-      <div className='bg-red-200'>let 's start the project </div>
+      <div className='w-[100%] h-[100vh]'>
+        <Header/>
+
+      </div>
     </>
   )
 }
