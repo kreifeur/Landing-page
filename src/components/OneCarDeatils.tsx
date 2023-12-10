@@ -5,10 +5,10 @@ type Vehicule ={
 }
 const OneCarDetails = (props:Vehicule) => {
   return (
-    <div className="flex flex-col items-center gap-4 text-white">
+    <div className="flex flex-col items-center gap-4 text-white h-[60vh] ">
       {/* image  */}
-      <div className="w-[100%]">
-        <img className='w-[100%]' src={props.image} alt="" />
+      <div className="w-[100%] h-[50%]">
+        <img className='w-[100%] h-[100%]' src={props.image} alt="" />
       </div>
       {/* title  */}
       <div className="text-xl font-bold">{props.name}</div>
