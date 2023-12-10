@@ -1,5 +1,6 @@
 
 import './App.css'
+import About from './pages/About'
 import Header from './pages/Header'
 
 function App() {
@@ -7,9 +8,9 @@ function App() {
 
   return (
     <>
-      <div className='w-[100%] h-[100vh]'>
+      <div className='w-[100%]'>
         <Header/>
-
+        <About/>
       </div>
     </>
   )

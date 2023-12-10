@@ -26,9 +26,9 @@ const Navbar = () => {
         </li>
       </ul>
       <div className="md:hidden text-2xl">
-      <div className="border-b w-[40px] border-b-white border-b-[3px] mb-2"></div>
-      <div className="border-b w-[40px] border-b-white border-b-[3px] mb-2"></div>
-      <div className="border-b w-[40px] border-b-white border-b-[3px] mb-2"></div>
+      <div className="border-b w-[25px] border-b-white border-b-[3px] mb-2"></div>
+      <div className="border-b w-[25px] border-b-white border-b-[3px] mb-2"></div>
+      <div className="border-b w-[25px] border-b-white border-b-[3px] mb-2"></div>
       </div>
     </div>
   );
