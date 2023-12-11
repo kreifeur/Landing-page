@@ -16,7 +16,7 @@ const Footer = () => {
         </li>
       </ul>
       {/* vehicles  */}
-      <div className="w-[15%]">
+      <div className="md:w-[15%] w-[100%]">
         <div>VEHICLES</div>
         <ul className="text-xs font-light">
           <li>Campass</li>
@@ -26,7 +26,7 @@ const Footer = () => {
         </ul>
       </div>
       {/* research */}
-      <div className="w-[15%]">
+      <div className="md:w-[15%] w-[100%]">
         <div>RESEARCH</div>
         <ul className="text-xs font-light">
           <li>Specification</li>
@@ -36,7 +36,7 @@ const Footer = () => {
         </ul>
       </div>
       {/* locate  */}
-      <div className="w-[20%]">
+      <div className="md:w-[20%] w-[100%]">
         <div>LOCATE</div>
         <div className="text-xs font-light">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam
@@ -44,7 +44,7 @@ const Footer = () => {
         </div>
       </div>
       {/* customer support */}
-      <div className="w-[30%]">
+      <div className="md:w-[30%] w-[100%]">
         <div className="text-xs ">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque laborum
           provident aliquid similique reprehenderit? Fugit cupiditate
