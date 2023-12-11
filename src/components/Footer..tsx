@@ -2,7 +2,7 @@ import { BsFacebook, BsInstagram, BsTwitter } from "react-icons/bs";
 
 const Footer = () => {
   return (
-    <div className="bg-[#1e1e26] w-[100%]  flex flex-col  md:flex-row text-white justify-between  md:px-[10vh] pb-[20vh] px-[5vh] pt-[15vh] gap-[4vh]">
+    <div className="bg-[#1e1e26] w-[100%]  flex flex-col  md:flex-row text-white justify-between  md:px-[10vh] md:pb-[20vh] py-[5vh] px-[5vh] md:pt-[15vh] gap-[4vh]">
       {/* social media */}
       <ul className="flex md:flex-col flex-row md:justify-between gap-10 md:gap-4 justify-center text-xl md:text-xl ">
         <li>

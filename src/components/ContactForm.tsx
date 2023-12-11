@@ -4,11 +4,10 @@ const ContactForm = () => {
       <div className="flex-1 md:border-r md:border-r-white flex flex-col md:md:px-10 px-4 px-4 py-6 gap-6 border-b border-b-white">
         <div>Select the vehucle</div>
         <ul>
-          <li>Compass</li>
-          <li>Compass</li>
-          <li>Compass</li>
-          <li>Compass</li>
-          <li>Compass</li>
+          <li>Campass</li>
+          <li>Wrabgler unlimitted</li>
+          <li>Grand Cherokee SRT</li>
+          <li>Grand Cherokee</li>
         </ul>
       </div>
 
